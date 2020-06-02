@@ -4,7 +4,7 @@
  O objetivo da atividade é elaborar um programa para fazer uma simulação de lançamento de projéteis, com o objetivo de atingir um determinado alvo. Essa aplicação pode ser observada em um lançamento de uma bala de canhão, na qual para acertar o alvo é necessário definir o ângulo de inclinação do canhão (α) e a velocidade inicial (V0) que a bala foi lançada.
  Espera-se com esse programa obter o alcance horizontal, o tempo do trajeto e a altura máxima atingida por cada disparo, além de se um determinado alvo foi ou não atingido
 
-# Funcionamento
+## Funcionamento
 
 - Mostrar o seguinte menu para o usuário:
  1. Simular disparo
@@ -16,7 +16,7 @@
 - A opção sair é a única forma de finalizar o programa.
 - A seguir, é detalhado o comportamento esperado de cada item do menu.
 
-# Simular disparo
+## Simular disparo
 
 - Deve ser pedido ao usuário para que digite as seguintes informações sobre o disparo: Velocidade Inicial (V0), que deve ser positiva e diferente de 0;
 - Ângulo de inclinação do canhão (α), que será inserido pelo usuário em graus e deve estar na faixa de valores (intervalo aberto);
@@ -28,7 +28,7 @@ usuário.
  Em seguida, essa tela deve apresentar o alcance horizontal, o tempo do trajeto e a altura máxima atingida por este disparo, bem como se o disparo atingiu o alvo, ou se caiu antes ou depois dele.
  Depois disso, o programa deve retornar ao menu e aguardar a escolha do usuário.
  
-# Mostrar estatísticas
+## Mostrar estatísticas
 
  Essa tela deve mostrar os seguintes dados:
  
@@ -38,7 +38,7 @@ usuário.
 
  Depois disso, o programa deve retornar ao menu e aguardar a escolha do usuário.
  
-# Mostrar resumo
+## Mostrar resumo
 
  Esta tela deve mostrar uma listagem de todos os disparos feitos até agora, e se foi bemsucedido ou não (i.e, atingiu o alvo).
  
