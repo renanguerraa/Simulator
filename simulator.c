@@ -7,8 +7,6 @@ int main(void) {
   int menu, ind = 0, acerto[99] = {}, i, usado = 0;
   double vo[99] = {}, anginc[99] = {}, distalvo[99] = {}, tamalvo[99] = {}, altmax[99] = {}, g = 9.81, pi = 3.14, temptraj[99] = {}, alchori[99] = {}, media = 0, altmaior, porcacerto, quant_n_null, contacerto;
 
-  printf("--- Atividade Pratica Supervisionada - Algoritmos e Programacao ---\n");
-
   while(menu != 4){
     
     menu = 0;
