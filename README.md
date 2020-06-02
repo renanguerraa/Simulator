@@ -40,7 +40,7 @@ usuário.
  
 ## Mostrar resumo
 
- Esta tela deve mostrar uma listagem de todos os disparos feitos até agora, e se foi bemsucedido ou não (i.e, atingiu o alvo).
+ Esta tela deve mostrar uma listagem de todos os disparos feitos até agora, e se foi bem sucedido ou não (i.e, atingiu o alvo).
  
  Exemplo:
 - O disparo 1 atingiu o alvo.
